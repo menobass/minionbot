@@ -5,7 +5,7 @@ Disclaimer.- Minion Bot is currently in alpha. This script is basic, adaptable a
 
 
 # References and Requirements
-https://developers.steem.io/tutorials-python/getting_started
+https://developers.steem.io/tutorials-python/getting_started <br>
 https://beem.readthedocs.io/en/latest/installation.html 
 
 # KIS = Keep it simple
@@ -15,7 +15,7 @@ To give minion bot an order, send 0.001 STEEM with a memo using the following fo
 
 (command) (author/permlink) (body) 
 
-  Examples:
+  Examples:<br>
   <b>npost</b> This post was made using minion <- Parent Post, not a reply
   
   <b>rpost</b> @meno/working-on-a-minion-bot This is a reply using minion bot <- Reply 
