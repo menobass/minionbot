@@ -13,11 +13,12 @@ Minion bot currently responds to two commands: npost, rpost.
 
 To give minion bot an order, send 0.001 STEEM with a memo using the following format:
 
-<command> <author/permlink>(in the case of a reply) <body>
+(command) (author/permlink) (body) 
+
   Examples:
-  <b>npost</b> This post was made using minion
+  <b>npost</b> This post was made using minion <- Parent Post, not a reply
   
-  <b>rpost</b> @meno/working-on-a-minion-bot This is a reply using minion bot
+  <b>rpost</b> @meno/working-on-a-minion-bot This is a reply using minion bot <- Reply 
   
 
 # Considerations:
